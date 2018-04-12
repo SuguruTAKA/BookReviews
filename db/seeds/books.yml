@@ -1,0 +1,69 @@
+books:
+  -
+    title: "ももいろのきりん"
+    author: "中川　季枝子"
+    publisher: "福音館"
+  -
+    title: "エルマーとりゅう"
+    author: "R・S・ガネット"
+    publisher: "福音館"
+  -
+    title: "エルマーのぼうけん"
+    author: "R・S・ガネット"
+    publisher: "福音館"
+  -
+    title: "エルマーと１６ぴきのきょうりゅう"
+    author: "R・S・ガネット"
+    publisher: "福音館"
+  -
+    title: "あおい目のこねこ"
+    author: "エゴン・マチーセン"
+    publisher: "福音館"
+  -
+    title: "みどりいろのたね"
+    author: "たかどの　ほうこ"
+    publisher: "福音館"
+  -
+    title: "こぎつねコンとこだぬきポン"
+    author: "松野　正子"
+    publisher: "童心社"
+  -
+    title: "エルマーとりゅう"
+    author: "R・S・ガネット"
+    publisher: "福音館"
+  -
+    title: "このはのおかねつかえます"
+    author: "茂市　久美子"
+    publisher: "佼成出版社"
+  -
+    title: "エルマーとりゅう"
+    author: "R・S・ガネット"
+    publisher: "福音館"
+  -
+    title: "クマのプーさん"
+    author: "Ａ・Ａ・ミルン"
+    publisher: "岩波書店"
+  -
+    title: "ゆめをにるなべ"
+    author: "茂市　久美子"
+    publisher: "教育画劇"
+  -
+    title: "葉っぱのフレディいのちの旅"
+    author: "レオ・バスカーリア"
+    publisher: "童話屋"
+  -
+    title: "でんでら竜がでてきたよ"
+    author: "おの　りえん"
+    publisher: "理論社"
+  -
+    title: "ながいながいペンギンの話"
+    author: "いぬい　とみこ"
+    publisher: "岩波書店"
+  -
+    title: "番ねずみのヤカちゃん"
+    author: "リチャード・ウィルバー"
+    publisher: "福音館"
+  -
+    title: "小さなスプーンおばさん"
+    author: "アルフ・プリョイセン"
+    publisher: "学研"

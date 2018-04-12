@@ -1,0 +1,8 @@
+<h1>Books</h1>
+<form action="<%= books_path %>" method="get" class="form-inline">
+  <input class="form-control" type="text" name="s_title" value="<%= request[:s_title] %>">
+  <button class="btn btn-default" type="submit">検索</button>
+</form>
+<%= render 'table', books: @books %>
+<%= paginate @books %>
+<%= link_to 'New Book', new_book_path, :class => 'btn btn-primary' %>
