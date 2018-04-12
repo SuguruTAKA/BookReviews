@@ -6,6 +6,7 @@ class BooksController < ApplicationController
   def index
     @books = Book.page(params[:page])
     @books = @books.search(s_title: params[:s_title]) if params[:s_title].present?
+    @books = @books.search(s_author: params[:s_author]) if params[:s_author].present?
   end
 
   # GET /books/1

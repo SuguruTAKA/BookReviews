@@ -6,6 +6,7 @@ module SearchBook
 			condition = table[:title].matches("%#{keyword}%")
 			where(condition)
 		}
+		
 		scope :search_author, lambda { |keyword|
 			table = Book.arel_table
 			condition = table[:author].matches("%#{keyword}%")

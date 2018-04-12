@@ -28,17 +28,9 @@ books:
     author: "松野　正子"
     publisher: "童心社"
   -
-    title: "エルマーとりゅう"
-    author: "R・S・ガネット"
-    publisher: "福音館"
-  -
     title: "このはのおかねつかえます"
     author: "茂市　久美子"
     publisher: "佼成出版社"
-  -
-    title: "エルマーとりゅう"
-    author: "R・S・ガネット"
-    publisher: "福音館"
   -
     title: "クマのプーさん"
     author: "Ａ・Ａ・ミルン"
@@ -67,3 +59,183 @@ books:
     title: "小さなスプーンおばさん"
     author: "アルフ・プリョイセン"
     publisher: "学研"
+  -
+    title: "ちびっこカムの冒険"
+    author: "神沢　利子"
+    publisher: "理論社"
+  -
+    title: "やかまし村のこどもたち"
+    author: "リンドグレーン"
+    publisher: "岩波書店"
+  -
+    title: "あたまをつかった小さなおばあさん"
+    author: "ホープ・ニューウェル"
+    publisher: "福音館"
+  -
+    title: "大どろぼうホッツェンプロッソ"
+    author: "プロイスラー"
+    publisher: "偕成社"
+  -
+    title: "セロひきのゴーシュ"
+    author: "宮沢　賢治"
+    publisher: "福音館"
+  -
+    title: "おおきくなりすぎたくま"
+    author: "リンド・ワード"
+    publisher: "はるぷ出版"
+  -
+    title: "かいじゅうになった女の子"
+    author: "末吉　暁子"
+    publisher: "偕成社"
+  -
+    title: "おおかみ王ロボ"
+    author: "シートン"
+    publisher: "学研"
+  -
+    title: "カワセミのマルタン"
+    author: "リダ・フォシェ"
+    publisher: "童話館"
+  -
+    title: "黒ねこサンゴロウ"
+    author: "竹下　文子"
+    publisher: "偕成社"
+  -
+    title: "かえるのエルタ"
+    author: "中川　季枝子"
+    publisher: "福音館"
+  -
+    title: "カッパのぬけがら"
+    author: "なかがわ　ちひろ"
+    publisher: "理論社"
+  -
+    title: "アルプスの少女ハイジ"
+    author: "ヨハンナ・スピリ"
+    publisher: "講談社"
+  -
+    title: "名犬ラッシー"
+    author: "エリック・ナイト"
+    publisher: "講談社"
+  -
+    title: "へんてこもりのはなし"
+    author: "たかどの　ほうこ"
+    publisher: "偕成社"
+  -
+    title: "ぞうのたまごのたまごやき"
+    author: "寺村　輝夫"
+    publisher: "理論社"
+  -
+    title: "ライギョのきゅうしょく"
+    author: "阿部　夏丸"
+    publisher: "講談社"
+  -
+    title: "おさるはおさる"
+    author: "いとう　ひろし"
+    publisher: "講談社"
+  -
+    title: "ごきげんなすてご"
+    author: "いとう　ひろし"
+    publisher: "徳間書店"
+  -
+    title: "王さまのアイスクリーム"
+    author: "フランセス・ステリット"
+    publisher: "大日本図書"
+  -
+    title: "きいろいばけつ"
+    author: "もりやま　みやこ"
+    publisher: "あかね書房"
+  -
+    title: "だれもしらない小さな国"
+    author: "さとう　さとる"
+    publisher: "講談社"
+  -
+    title: "ペンギンかんそくたい"
+    author: "斉藤　洋"
+    publisher: "講談社"
+  -
+    title: "百まいのきもの"
+    author: "ワンダー・ペトロンスキー"
+    publisher: "岩波書店"
+  -
+    title: "ゆかいなホーマーくん"
+    author: "マックロスキー"
+    publisher: "岩波書店"
+  -
+    title: "もりのへなそうる"
+    author: "渡辺　茂男"
+    publisher: "福音館"
+  -
+    title: "空気がなくなる日"
+    author: "岩倉　政治"
+    publisher: "ポプラ社"
+  -
+    title: "おかあさん、げんきですか"
+    author: "後藤　竜二"
+    publisher: "ポプラ社"
+  -
+    title: "ともだち"
+    author: "谷川　俊太郎"
+    publisher: "玉川大学出版部"
+  -
+    title: "目をさませトラゴロウ"
+    author: "小沢　正"
+    publisher: "理論社"
+  -
+    title: "クマの子ウーフ"
+    author: "神沢　利子"
+    publisher: "ポプラ社"
+  -
+    title: "車のいろは空のいろ"
+    author: "あまん　きみこ"
+    publisher: "ポプラ社"
+  -
+    title: "ノンビリすいぞくかん"
+    author: "長　新太"
+    publisher: "理論社"
+  -
+    title: "ヘンテコどうぶつ日記"
+    author: "長　新太"
+    publisher: "理論社"
+  -
+    title: "なぞなぞライオン"
+    author: "佐々木　マキ"
+    publisher: "理論社"
+  -
+    title: "ふらいぱんじいさん"
+    author: "神沢　利子"
+    publisher: "あかね書房"
+  -
+    title: "三つ子のこぶた"
+    author: "中川　季枝子"
+    publisher: "のら書房"
+  -
+    title: "ぺちゃんこスタンレー"
+    author: "ジェフ・ブラウン"
+    publisher: "あすなろ書房"
+  -
+    title: "へろりのだいふく"
+    author: "たかどの　ほうこ"
+    publisher: "佼成社出版"
+  -
+    title: "れいぞうこのなつやすみ"
+    author: "村上　しいこ"
+    publisher: "PHP研究所"
+  -
+    title: "うさぎとぱんだとぶたのぱん"
+    author: "小沢　正"
+    publisher: "小峰書店"
+  -
+    title: "くしゃみくしゃみ天のめぐみ"
+    author: "松岡　享子"
+    publisher: "福音館"
+  -
+    title: "ごきげんぶくろ"
+    author: "赤羽　じゅんこ"
+    publisher: "あかね書房"
+  -
+    title: "あらしのよるに"
+    author: "きむら　ゆういち"
+    publisher: "講談社"
+  -
+    title: "ロボット・カミイ"
+    author: "古田　足日"
+    publisher: "福音館"
